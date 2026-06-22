@@ -1,3 +1,3 @@
 # Temporal-relations
 
-Source code for the article "Detecting Temporal Relations in Archaeology: Model and Algorithms", by Eythan Levy (preprint under review). The preprint is available on HAL: [https://hal.science/hal-05210722v1](https://hal.science/hal-05210722v1). 
+Source code for the article "Detecting Temporal Relations in Archaeology: Model and Algorithms", by Eythan Levy (preprint under review). The article presents algorithms for automated detection of temporal relations between temporal intervals featuring uncertainties (ranges) on their boundaries. The temporal relations are based on the system devised in [Levy 2025](https://doi.org/10.1111/arcm.13080). The algorithms are implemented in the Python language. The preprint is available on HAL: [https://hal.science/hal-05210722v1](https://hal.science/hal-05210722v1). 
