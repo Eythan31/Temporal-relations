@@ -16,11 +16,9 @@ preferred-citation:
     - family-names: "Levy"
       given-names: "Eythan"
   title: "DETECTING TEMPORAL RELATIONS IN ARCHAEOLOGY: MODEL AND ALGORITHMS"
-  year: "2026"
-  month: 6
+  date-published: "2026-06-25"
   medium: "Preprint under review (revised version)"
   identifiers:
-  - type: doi
-    value: "10.5281/zenodo.20846924"
-    description: "The DOI for version 2 of this preprint"	
-  
+    - type: doi
+      value: "10.5281/zenodo.20846924"
+      description: "The DOI for version 2 of this preprint"
