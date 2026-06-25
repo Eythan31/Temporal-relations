@@ -1,0 +1,356 @@
+{
+  "chronolog-version": "3.0.0",
+  "synchronisms": [],
+  "imports": [],
+  "C14StartDatesForExport": {
+    "KH II": [],
+    "BY II": [],
+    "D II": [],
+    "U III": [],
+    "A IB": [],
+    "Y IB": [],
+    "A IA": [],
+    "D IB": [],
+    "BY IA": [],
+    "Kh IB": [],
+    "K IB": [],
+    "U II": [],
+    "K IA": [],
+    "Y II": [],
+    "J III": [],
+    "J II": [],
+    "BY III": [],
+    "Y III": []
+  },
+  "C14EndDatesForExport": {
+    "KH II": [],
+    "BY II": [],
+    "D II": [],
+    "U III": [],
+    "A IB": [],
+    "Y IB": [],
+    "A IA": [],
+    "D IB": [],
+    "BY IA": [],
+    "Kh IB": [],
+    "K IB": [],
+    "U II": [],
+    "K IA": [],
+    "Y II": [],
+    "J III": [],
+    "J II": [],
+    "BY III": [],
+    "Y III": []
+  },
+  "name": "",
+  "sequences": [
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Kh",
+      "periods": [
+        {
+          "endDateUB": -2940,
+          "fillColor": -1315861,
+          "periodY": 40,
+          "comments": "",
+          "name": "Kh IB",
+          "width": 160,
+          "endDateLB": -3090,
+          "periodX": 20,
+          "height": 80
+        },
+        {
+          "fillColor": -1315861,
+          "periodY": 120,
+          "comments": "",
+          "name": "KH II",
+          "width": 160,
+          "periodX": 20,
+          "height": 80
+        }
+      ],
+      "startY": 40,
+      "startX": 20,
+      "tags": []
+    },
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Ashkelon",
+      "periods": [
+        {
+          "endDateUB": -3220,
+          "fillColor": -1315861,
+          "periodY": 40,
+          "comments": "",
+          "name": "A IA",
+          "width": 160,
+          "endDateLB": -3520,
+          "periodX": 220,
+          "height": 80
+        },
+        {
+          "fillColor": -1315861,
+          "periodY": 120,
+          "comments": "",
+          "name": "A IB",
+          "width": 160,
+          "periodX": 220,
+          "height": 80
+        }
+      ],
+      "startY": 40,
+      "startX": 220,
+      "tags": []
+    },
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Babh ed-Drah",
+      "periods": [
+        {
+          "endDateUB": -2520,
+          "fillColor": -1315861,
+          "periodY": 40,
+          "comments": "",
+          "name": "D IB",
+          "width": 160,
+          "endDateLB": -3220,
+          "periodX": 420,
+          "height": 80
+        },
+        {
+          "fillColor": -1315861,
+          "periodY": 120,
+          "comments": "",
+          "name": "D II",
+          "width": 160,
+          "periodX": 420,
+          "height": 80
+        }
+      ],
+      "startY": 40,
+      "startX": 420,
+      "tags": []
+    },
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Beth Yerah",
+      "periods": [
+        {
+          "endDateUB": -3330,
+          "fillColor": -1315861,
+          "periodY": 40,
+          "comments": "",
+          "name": "BY IA",
+          "width": 160,
+          "endDateLB": -3650,
+          "periodX": 620,
+          "height": 80
+        }
+      ],
+      "startY": 40,
+      "startX": 620,
+      "tags": []
+    },
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Jericho",
+      "periods": [
+        {
+          "endDateUB": -2760,
+          "fillColor": -1315861,
+          "periodY": 260,
+          "comments": "",
+          "name": "J II",
+          "width": 160,
+          "endDateLB": -2990,
+          "periodX": 20,
+          "height": 80
+        },
+        {
+          "fillColor": -1315861,
+          "periodY": 340,
+          "comments": "",
+          "name": "J III",
+          "width": 160,
+          "periodX": 20,
+          "height": 80
+        }
+      ],
+      "startY": 260,
+      "startX": 20,
+      "tags": []
+    },
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Kabri",
+      "periods": [
+        {
+          "endDateUB": -3310,
+          "fillColor": -1315861,
+          "periodY": 260,
+          "comments": "",
+          "name": "K IA",
+          "width": 160,
+          "endDateLB": -3380,
+          "periodX": 220,
+          "height": 80
+        },
+        {
+          "endDateUB": -3010,
+          "fillColor": -1315861,
+          "periodY": 340,
+          "comments": "",
+          "name": "K IB",
+          "width": 160,
+          "endDateLB": -3350,
+          "periodX": 220,
+          "height": 80
+        }
+      ],
+      "startY": 260,
+      "startX": 220,
+      "tags": []
+    },
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Yarmuth",
+      "periods": [
+        {
+          "endDateUB": -2920,
+          "fillColor": -1315861,
+          "periodY": 260,
+          "comments": "",
+          "name": "Y IB",
+          "width": 160,
+          "endDateLB": -3050,
+          "periodX": 420,
+          "height": 80
+        },
+        {
+          "endDateUB": -2900,
+          "fillColor": -1315861,
+          "periodY": 340,
+          "comments": "",
+          "name": "Y II",
+          "width": 160,
+          "endDateLB": -3010,
+          "periodX": 420,
+          "height": 80
+        },
+        {
+          "fillColor": -1315861,
+          "periodY": 420,
+          "comments": "",
+          "name": "Y III",
+          "width": 160,
+          "periodX": 420,
+          "height": 80
+        }
+      ],
+      "startY": 260,
+      "startX": 420,
+      "tags": []
+    },
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Tel el-Umeiri",
+      "periods": [
+        {
+          "endDateUB": -2920,
+          "fillColor": -1315861,
+          "periodY": 500,
+          "comments": "",
+          "name": "U II",
+          "width": 160,
+          "endDateLB": -3090,
+          "periodX": 20,
+          "height": 80
+        },
+        {
+          "fillColor": -1315861,
+          "periodY": 580,
+          "comments": "",
+          "name": "U III",
+          "width": 160,
+          "periodX": 20,
+          "height": 80
+        }
+      ],
+      "startY": 500,
+      "startX": 20,
+      "tags": []
+    },
+    {
+      "visible": true,
+      "comments": "",
+      "hidden": false,
+      "name": "Beth Yerah 2",
+      "periods": [
+        {
+          "endDateUB": -2660,
+          "fillColor": -1315861,
+          "periodY": 280,
+          "comments": "",
+          "startDateLB": -3550,
+          "name": "BY II",
+          "width": 160,
+          "endDateLB": -3190,
+          "startDateUB": -3120,
+          "periodX": 620,
+          "height": 80
+        },
+        {
+          "fillColor": -1315861,
+          "periodY": 360,
+          "comments": "",
+          "name": "BY III",
+          "width": 160,
+          "periodX": 620,
+          "height": 80
+        }
+      ],
+      "startY": 280,
+      "startX": 620,
+      "tags": []
+    }
+  ],
+  "lonePeriods": [],
+  "C14PhaseDatesForExport": {
+    "KH II": [],
+    "BY II": [],
+    "D II": [],
+    "U III": [],
+    "A IB": [],
+    "Y IB": [],
+    "A IA": [],
+    "D IB": [],
+    "BY IA": [],
+    "Kh IB": [],
+    "K IB": [],
+    "U II": [],
+    "K IA": [],
+    "Y II": [],
+    "J III": [],
+    "J II": [],
+    "BY III": [],
+    "Y III": []
+  },
+  "events": [],
+  "C14EventDatesForExport": {}
+}
