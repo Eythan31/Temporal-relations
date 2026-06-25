@@ -9,6 +9,6 @@ This repository contains the following files:
 	- temporal-relations-examples.py: examples of strongest temporal relations.
 	- validate-algorithms.py: test cases for our four algorithms.
 	- benchmarks.py: comparison of execution speeds of our four algorithms (section 4.3 in the paper).
-	- case-study.py: source code for our case study (section 6 in the paper).
+	- case-study.py: source code for our case study (section 5 in the paper).
 	- case-study.clog: ChronoLog file used to generate the Directed Acyclical Graph (DAG) of the case study (fig. 9 in the paper). 
 	
