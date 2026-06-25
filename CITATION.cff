@@ -2,28 +2,27 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Temporal-relations
+title: ' Temporal-relations'
 message: >-
-  If you use this software, please cite the underlying
-  preprint paper as below.
+  If you use this software, please cite it using the
+  metadata from this file.
 type: software
 authors:
-  - family-names: Levy
-    given-names: Eythan
+  - given-names: Eythan
+    family-names: Levy
+    email: eythan.levy@gmail.com
     affiliation: University of Zurich
-url: 'https://github.com/Eythan31/Temporal-relations'
+    orcid: 'https://orcid.org/0000-0002-7636-9942'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16997602
+repository-code: 'https://github.com/Eythan31/Temporal-relations'
+abstract: >-
+  Code of the revised preprint version of the article
+  "Detecting Temporal Relations in Archaeology: Model and
+  Algorithms", after first round of peer-review.
+keywords:
+  - Chronology
+  - Archaeology
+  - Computational archaeology
 license: GPL-3.0
-version: 1.1.0
-date-released: '2026-06-25'
-preferred-citation:
-  type: generic
-  authors:
-    - family-names: Levy
-      given-names: Eythan
-  title: 'DETECTING TEMPORAL RELATIONS IN ARCHAEOLOGY: MODEL AND ALGORITHMS'
-  date-published: '2026-06-25'
-  medium: Preprint under review (revised version)
-  identifiers:
-    - type: doi
-      value: 10.5281/zenodo.20846924
-      description: The DOI for version 2 of this preprint
