@@ -5,8 +5,8 @@ authors:
     given-names: "Eythan"
     affiliation: "University of Zurich"
 title: "Temporal-relations"
-version: "1.0.0"
-date-released: "2029-08-29"
+version: "1.1.0"
+date-released: "2026-06-25"
 url: "https://github.com/Eythan31/Temporal-relations"
 license: "GPL-3.0"
 
@@ -16,9 +16,11 @@ preferred-citation:
     - family-names: "Levy"
       given-names: "Eythan"
   title: "DETECTING TEMPORAL RELATIONS IN ARCHAEOLOGY: MODEL AND ALGORITHMS"
-  year: "2025"
-  month: 8
-  medium: "Preprint under review"
-  institution:
-    name: "HAL"  
-  url: "https://hal.science/hal-05210722v1"
+  year: "2026"
+  month: 6
+  medium: "Preprint under review (revised version)"
+  identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20846924"
+    description: "The DOI for version 2 of this preprint"	
+  
